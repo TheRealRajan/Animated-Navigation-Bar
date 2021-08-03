@@ -25,7 +25,7 @@
 body {
   font-family: "Muli", sans-serif;
   background-color: #eafbff;
-  background-image: linear-gradient(to bottom, #2a7cda, #2660a4);
+  background-image: linear-gradient(to bottom, #2a7cda, #306aac);
   margin: 0;
   display: flex;
   align-items: center;
@@ -35,12 +35,12 @@ body {
 
 nav {
   background-color: #fff;
-  padding: 10px;
+  padding: 5px 10px;
   width: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 5px;
+  border-radius: 8px 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   transition: width 0.6s linear;
 }
